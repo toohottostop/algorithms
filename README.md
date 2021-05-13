@@ -6,3 +6,6 @@ Instruction for decode:
 2) If there is a dot after a letter, then we leave the letter unchanged. In this case, the point itself must be deleted.
 3) If there are two dots after a letter, then the previous character must be erased. In this case, both points must also be deleted.
 4) It is possible that the message after decryption will be empty. As a result, you can return just an empty string
+## search closest number in array
+Solving the problem using binary search.  
+Time complexity: O(log N)
