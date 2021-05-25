@@ -13,3 +13,8 @@ Time complexity: O(log N)
 ## shifted array
 Flask app to find pivot point in shifted and sorted array
 Time complexity: O(log N)
+## binary tree
+Module can:
+- create binary tree of any height
+- walk binary tree and save steps of walking in log file "walk_log.txt"
+- restore_tree from "walk_log.txt" file and print root
